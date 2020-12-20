@@ -1,0 +1,45 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;   
+}
+#fo{
+    height: 510px;
+    width: 350px;
+    background-color: black;
+    border-radius: 6px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 125px;
+}
+#cim{
+    color: white;
+    margin-left: 5px;
+    font-weight: bold;
+    font-size: 30px;
+}
+#mellek{
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    height: 40px;
+    width: 347px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.gomb{
+    height: 50px;
+    width: 50px;
+    font-weight: bold;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 3px;
+    border-color: black;
+}
+#C{
+    width: 290px;
+    background-color: grey;
+    
+}
